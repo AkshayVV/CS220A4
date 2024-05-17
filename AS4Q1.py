@@ -18,10 +18,7 @@ def main():
         print(overall_min)
         limit = int(sys.stdin.readline().strip())
         
- 
-   # for loop global i = 0
-   # gloabl_current_min = 0
-   
+
     
  
 def distance(digraph):
